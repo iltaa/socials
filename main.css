@@ -56,4 +56,7 @@ h1 {
     display: block;
     margin: auto;
     box-shadow: 4px 4px 0px #101010;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
 }
