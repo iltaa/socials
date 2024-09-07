@@ -11,7 +11,7 @@ body {
     font-family: "Windows";
     text-align: center;
     margin: auto;
-    zoom: 300%;
+    zoom: 250%;
     text-shadow: 0px 3px 0px #101010;
 }
 
@@ -22,13 +22,14 @@ p {
     user-select: none;
 }
 
-#youtube {
-    color: red;
+#socials {
+    color: #e865ff;
 }
 
 a {
     text-shadow: 0px 1px 0px #180a23;
-    color: blueviolet;
+    color: rgb(163, 65, 255);
+    display: block;
 }
 
 html, body {
