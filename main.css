@@ -12,22 +12,13 @@ body {
     text-align: center;
     margin: auto;
     zoom: 250%;
-    /* text-shadow: 0px 3px 0px #101010; */
 }
-
-/* p {
-    text-shadow: 0px 2px 0px #101010;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
-} */
 
 #socials {
     color: #FF9EFF;
 }
 
 a {
-    /* text-shadow: 0px 1px 0px #180a23; */
     color: #FF50FF;
     display: block;
 }
@@ -46,17 +37,10 @@ body {
     vertical-align: middle;
 }
 
-/* h1 {
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
-} */
-
 #iltaaimg {
     width: 130px;
     display: block;
     margin: auto;
-    /* box-shadow: 4px 4px 0px #101010; */
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
