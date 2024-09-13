@@ -6,29 +6,29 @@
 
 
 body {
-    background-color: #222222;
+    background-color: #000000;
     color: #f0ffff;
     font-family: "Windows";
     text-align: center;
     margin: auto;
     zoom: 250%;
-    text-shadow: 0px 3px 0px #101010;
+    /* text-shadow: 0px 3px 0px #101010; */
 }
 
-p {
+/* p {
     text-shadow: 0px 2px 0px #101010;
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
-}
+} */
 
 #socials {
-    color: #e865ff;
+    color: #FF9EFF;
 }
 
 a {
-    text-shadow: 0px 1px 0px #180a23;
-    color: rgb(163, 65, 255);
+    /* text-shadow: 0px 1px 0px #180a23; */
+    color: #FF50FF;
     display: block;
 }
 
@@ -46,17 +46,17 @@ body {
     vertical-align: middle;
 }
 
-h1 {
+/* h1 {
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
-}
+} */
 
 #iltaaimg {
-    width: 20%;
+    width: 130px;
     display: block;
     margin: auto;
-    box-shadow: 4px 4px 0px #101010;
+    /* box-shadow: 4px 4px 0px #101010; */
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
